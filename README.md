@@ -7,13 +7,6 @@ This tool makes use of [http://speedtest.net/](speedtest.net) and the [speed-tes
 
 ## Installation
 
-To use this tool, you must first install the [speed-test](https://github.com/sindresorhus/speed-test) CLI Node.js package
-globally.
-
-```bash
-npm install --global speed-test
-```
-
 Download the latest version from the __Releases__ page.
 
 Run `npm install`
