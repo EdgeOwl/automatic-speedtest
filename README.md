@@ -3,7 +3,7 @@
 Automates the running of an internet speed test every X minutes, logging results
 to a CSV file.
 
-This tool makes use of [http://speedtest.net/](speedtest.net) and the [speed-test](https://github.com/sindresorhus/speed-test) CLI tool
+This tool makes use of [speedtest.net](http://speedtest.net/) and the [speed-test](https://github.com/sindresorhus/speed-test) CLI tool
 
 ## Installation
 
